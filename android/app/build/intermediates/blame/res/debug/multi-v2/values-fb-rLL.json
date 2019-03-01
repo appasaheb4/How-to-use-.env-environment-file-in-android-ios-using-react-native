@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fb-rLL/values-fb-rLL.xml",
+            "map": [
+                {
+                    "source": "/Users/developer/.gradle/caches/transforms-1/files-1.1/react-native-0.14.0.aar/4bbd140d8b2988781fd09c180c8bca7d/res/values-fb-rLL/values-fb-rLL.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "195,249,328,407,478,557,613,672",
+                        "endColumns": "53,78,78,70,78,55,58,73",
+                        "endOffsets": "244,323,402,473,552,608,667,741"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,188,267,338,417,473,532",
+                        "endColumns": "53,78,78,70,78,55,58,73",
+                        "endOffsets": "104,183,262,333,412,468,527,601"
+                    }
+                }
+            ]
+        }
+    ]
+}

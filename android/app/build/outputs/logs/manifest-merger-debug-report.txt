@@ -1,0 +1,236 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-sqlite-storage] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-sqlite-storage/src/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-gesture-handler] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-config] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-config/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.14.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/react-native-0.14.0.aar/4bbd140d8b2988781fd09c180c8bca7d/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19e942619f8967a980c5e838092f3382/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9f42c19206ac7c26c3d608dce2359429/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/471a1e4859fd51a7b24adcc1ef14c74f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a3049605aa902c97ebee1651ee5f5bdf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e9a12db576980de25304c38e3a32f0b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ed8bcbdf27ddd005a90a93d86b482e77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cdc5e2308ac1ac8b51314ccb9998f694/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/cbf971e8289a111f1868157b6d848528/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/43b181709f2cb7eaeaf1b8c6da86fd38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ce0ade6382f1ba9e50233943ef71cc63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a32469219b84d13468e60841087c4110/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/885b040d7b4f4e8cd3fa4b66f0708a43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c81242c634f06d3d337bf39242d8702c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/648125609f58ddedabae64ecba7bf92e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/182734ad7da3e748ef1a68df73d32257/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9064f5a755597751af7735f626dcff0c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ba46c87dd17005d4e89c05de121b54f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/30a3340e7ad169c85c94c2f6d0513a74/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/52b1997dc735d6e0a40b80a6d3d82398/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ebc183a427067e10678b3c340c30576a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/09ddbfb95775bc9c04033f940b7650ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a8a6757372f2498b7c0b5bc2cab652e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/04b5a6931a9472e4fba9c6243a80b421/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:0.6.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/fresco-0.6.1.aar/84194ab8d270e754c681ec58181590f2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:0.6.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/drawee-0.6.1.aar/928d99cb7ca05a161ed28a11f54c25f5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.6.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp-0.6.1.aar/631db0ca00b05386ac58fb15e29fc0ee/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:0.6.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.6.1.aar/5c71ad81f7780f1e4920e876be3b669f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.0.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/0cba5683d921b9bff4ef33a3ea77fe65/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ffd44f480b5f01ccdacfbddcc1ce875f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1eb98ac2b15e94d8dfdae6e9784b53c6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d45c9aeac2127b00f595ebebedabc397/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4bac2ddf5c25c2c816ae6cd5915eb2db/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/developer/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/8e2e37e5dedbc11401267b225d0850a1/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:0.6.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/fbcore-0.6.1.aar/bf794fed446d1dd1f6c87e0eb50cac68/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:2:3-25
+		INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.14.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/react-native-0.14.0.aar/4bbd140d8b2988781fd09c180c8bca7d/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.14.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/react-native-0.14.0.aar/4bbd140d8b2988781fd09c180c8bca7d/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [:react-native-image-picker] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.14.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/react-native-0.14.0.aar/4bbd140d8b2988781fd09c180c8bca7d/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.14.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/react-native-0.14.0.aar/4bbd140d8b2988781fd09c180c8bca7d/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/182734ad7da3e748ef1a68df73d32257/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/182734ad7da3e748ef1a68df73d32257/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9064f5a755597751af7735f626dcff0c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9064f5a755597751af7735f626dcff0c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-v4:23.0.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/0cba5683d921b9bff4ef33a3ea77fe65/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/0cba5683d921b9bff4ef33a3ea77fe65/AndroidManifest.xml:22:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/developer/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/8e2e37e5dedbc11401267b225d0850a1/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/developer/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/8e2e37e5dedbc11401267b225d0850a1/AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/182734ad7da3e748ef1a68df73d32257/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.tutorial.MainActivity
+ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-sqlite-storage] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-sqlite-storage/src/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sqlite-storage] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-sqlite-storage/src/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-config] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-config/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-config] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-config/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.14.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/react-native-0.14.0.aar/4bbd140d8b2988781fd09c180c8bca7d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.14.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/react-native-0.14.0.aar/4bbd140d8b2988781fd09c180c8bca7d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19e942619f8967a980c5e838092f3382/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/19e942619f8967a980c5e838092f3382/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9f42c19206ac7c26c3d608dce2359429/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/9f42c19206ac7c26c3d608dce2359429/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/471a1e4859fd51a7b24adcc1ef14c74f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/471a1e4859fd51a7b24adcc1ef14c74f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a3049605aa902c97ebee1651ee5f5bdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a3049605aa902c97ebee1651ee5f5bdf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e9a12db576980de25304c38e3a32f0b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/e9a12db576980de25304c38e3a32f0b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ed8bcbdf27ddd005a90a93d86b482e77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/ed8bcbdf27ddd005a90a93d86b482e77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cdc5e2308ac1ac8b51314ccb9998f694/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/cdc5e2308ac1ac8b51314ccb9998f694/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/cbf971e8289a111f1868157b6d848528/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/cbf971e8289a111f1868157b6d848528/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/43b181709f2cb7eaeaf1b8c6da86fd38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/43b181709f2cb7eaeaf1b8c6da86fd38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ce0ade6382f1ba9e50233943ef71cc63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ce0ade6382f1ba9e50233943ef71cc63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a32469219b84d13468e60841087c4110/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/a32469219b84d13468e60841087c4110/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/885b040d7b4f4e8cd3fa4b66f0708a43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/885b040d7b4f4e8cd3fa4b66f0708a43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c81242c634f06d3d337bf39242d8702c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c81242c634f06d3d337bf39242d8702c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/648125609f58ddedabae64ecba7bf92e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/648125609f58ddedabae64ecba7bf92e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/182734ad7da3e748ef1a68df73d32257/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/182734ad7da3e748ef1a68df73d32257/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9064f5a755597751af7735f626dcff0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/9064f5a755597751af7735f626dcff0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ba46c87dd17005d4e89c05de121b54f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ba46c87dd17005d4e89c05de121b54f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/30a3340e7ad169c85c94c2f6d0513a74/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.0.1.aar/30a3340e7ad169c85c94c2f6d0513a74/AndroidManifest.xml:20:5-43
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/52b1997dc735d6e0a40b80a6d3d82398/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/52b1997dc735d6e0a40b80a6d3d82398/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ebc183a427067e10678b3c340c30576a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/ebc183a427067e10678b3c340c30576a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/09ddbfb95775bc9c04033f940b7650ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/09ddbfb95775bc9c04033f940b7650ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a8a6757372f2498b7c0b5bc2cab652e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/a8a6757372f2498b7c0b5bc2cab652e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/04b5a6931a9472e4fba9c6243a80b421/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/04b5a6931a9472e4fba9c6243a80b421/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:0.6.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/fresco-0.6.1.aar/84194ab8d270e754c681ec58181590f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:0.6.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/fresco-0.6.1.aar/84194ab8d270e754c681ec58181590f2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.6.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/drawee-0.6.1.aar/928d99cb7ca05a161ed28a11f54c25f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:0.6.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/drawee-0.6.1.aar/928d99cb7ca05a161ed28a11f54c25f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.6.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp-0.6.1.aar/631db0ca00b05386ac58fb15e29fc0ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.6.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp-0.6.1.aar/631db0ca00b05386ac58fb15e29fc0ee/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.6.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.6.1.aar/5c71ad81f7780f1e4920e876be3b669f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:0.6.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/imagepipeline-0.6.1.aar/5c71ad81f7780f1e4920e876be3b669f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:23.0.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/0cba5683d921b9bff4ef33a3ea77fe65/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/0cba5683d921b9bff4ef33a3ea77fe65/AndroidManifest.xml:20:5-43
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ffd44f480b5f01ccdacfbddcc1ce875f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/ffd44f480b5f01ccdacfbddcc1ce875f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1eb98ac2b15e94d8dfdae6e9784b53c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1eb98ac2b15e94d8dfdae6e9784b53c6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d45c9aeac2127b00f595ebebedabc397/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d45c9aeac2127b00f595ebebedabc397/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4bac2ddf5c25c2c816ae6cd5915eb2db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/developer/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/4bac2ddf5c25c2c816ae6cd5915eb2db/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:0.6.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/fbcore-0.6.1.aar/bf794fed446d1dd1f6c87e0eb50cac68/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:0.6.1] /Users/developer/.gradle/caches/transforms-1/files-1.1/fbcore-0.6.1.aar/bf794fed446d1dd1f6c87e0eb50cac68/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:17-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/developer/Documents/appasaheb4/project/task/react-native/Tutorial/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
